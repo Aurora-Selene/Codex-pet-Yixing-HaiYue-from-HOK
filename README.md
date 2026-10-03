@@ -1,6 +1,6 @@
 # 王者荣耀 · 弈星 & 海月 Codex Pets
 
-弈星与海月的像素 Q 版桌面宠物集合。当前已发布弈星原皮「天元之弈」与海月「真言先知」非白色形态，各有九种动作。海月保持高冷、从容的神态，银白长发配黑紫金服饰。
+弈星与海月的像素 Q 版桌面宠物集合。当前已发布弈星原皮「天元之弈」、弈星「万物之道」与海月「真言先知」非白色形态，各有九种动作。海月保持高冷、从容的神态，银白长发配黑紫金服饰。
 
 ## 宠物目录
 
@@ -12,9 +12,16 @@
 | [配置文件](pets/yixing-classic/pet.json) · [动作图集](pets/yixing-classic/spritesheet.webp) | [配置文件](pets/haiyue-zhenyan-dark/pet.json) · [动作图集](pets/haiyue-zhenyan-dark/spritesheet.webp) |
 
 
+| 弈星·万物之道 |
+| :---: |
+| [![弈星·万物之道](pets/yixing-wanwuzhidao/idle.gif)](pets/yixing-wanwuzhidao/README.md) |
+| **[查看万物之道 →](pets/yixing-wanwuzhidao/README.md)** |
+| 深蓝发、灰蓝长袍、青蓝披风；v3 行走摆臂与关节修补 |
+| [配置文件](pets/yixing-wanwuzhidao/pet.json) · [动作图集](pets/yixing-wanwuzhidao/spritesheet.webp) |
+
 ## 下载与安装
 
-[下载完整仓库 ZIP](https://github.com/Aurora-Selene/Codex-pet-Yixing-HaiYue-from-HOK/archive/refs/heads/main.zip)，解压后进入所选宠物目录：`pets/yixing-classic/` 或 `pets/haiyue-zhenyan-dark/`。在该目录运行安装脚本；[海月详细安装与动作预览](pets/haiyue-zhenyan-dark/README.md)。
+[下载完整仓库 ZIP](https://github.com/Aurora-Selene/Codex-pet-Yixing-HaiYue-from-HOK/archive/refs/heads/main.zip)，解压后进入所选宠物目录：`pets/yixing-classic/` 、`pets/haiyue-zhenyan-dark/` 或 `pets/yixing-wanwuzhidao/`。在该目录运行安装脚本；[海月详细安装与动作预览](pets/haiyue-zhenyan-dark/README.md)。
 
 macOS / Linux：
 
@@ -68,7 +75,8 @@ spritesheet.webp         # 弈星原皮快捷下载图集
 install.sh / install.ps1 # 弈星原皮安装脚本
 pets/
 ├── yixing-classic/       # 弈星·天元之弈（原皮）
-└── haiyue-zhenyan-dark/   # 海月·真言先知（非白色形态）
+├── haiyue-zhenyan-dark/   # 海月·真言先知（非白色形态）
+└── yixing-wanwuzhidao/   # 弈星·万物之道
 ```
 
 各宠物目录包含独立的配置、动作图集、安装脚本、九组 GIF 预览和说明。
