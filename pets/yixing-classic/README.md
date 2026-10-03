@@ -8,7 +8,7 @@
 
 ## 安装
 
-[下载整个仓库](https://github.com/Aurora-Selene/Codex-pet-Yixing-HaiYue-From-HOK/archive/refs/heads/main.zip)，解压后进入 `pets/yixing-classic`。
+[下载整个仓库](https://github.com/Aurora-Selene/Codex-pet-Yixing-HaiYue-from-HOK/archive/refs/heads/main.zip)，解压后进入 `pets/yixing-classic`。
 
 macOS / Linux：
 
